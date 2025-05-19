@@ -11,7 +11,7 @@ module.exports = { session: process.env.SESSION_ID || 'ALPHA;;;H4sIAAAAAAAAA5VVX
     PREFIXE: process.env.PREFIX || ".",
     GITHUB : process.env.GITHUB|| 'https://github.com/Keithkeizzah/ALPHA-MD',
     OWNER_NAME : process.env.OWNER_NAME || "Keith",
-    NUMERO_OWNER : process.env.NUMERO_OWNER || "254748387615",  
+    NUMERO_OWNER : process.env.NUMERO_OWNER || "233551588627",  
     CHATBOT : process.env.CHATBOT || "no",  
     CHATBOT_INBOX : process.env.CHATBOT_INBOX || "yes",                     
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "yes",
